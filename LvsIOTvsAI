@@ -1,0 +1,14 @@
+
+
+Point 1 would be IoT (Internet of Things).
+Because IoT deals with network of sensors that generate data, the entire purpose of IoT is to generate newer forms of data. 
+They also involve actuators that perform a particular task when asked to do so.
+
+Point 2 would be ML
+Machine Learning is when you have an amount of data, and you are expected to build a logical interpretation out of it for 
+the computer to solve a problem. Computer determine trends, it predict upcoming data, it checks for deviations from expected 
+results.
+
+Point 3 would be AI
+Artificial Intelligence is training the system to decide on it’s own. A typical computer today has an IQ of zero. Because 
+it can’t make decisions of it’s own. As in the above two cases we saw that they deal with generation of data and logically interpreting it, AI needs to deal with decision making of the situation it gets into.
