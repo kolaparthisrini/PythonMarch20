@@ -1,0 +1,24 @@
+class User:
+    name = ""
+    nos = ""
+    def __init__(self, name):
+        self.name = name
+    def __init__(self, name,nos):
+        self.name = name
+        self.nos = 99
+    def printName(self):
+        print (self.nos)
+
+class Programmer(User):
+    def __init__(self, name):
+        self.name = name
+
+    def printName(self):
+        print ("NameProgrammer  = " + self.name)
+
+
+brian = User("Srinivas",90)
+brian.printName()
+
+diana = Programmer("Kolaparthis")
+diana.printName()
